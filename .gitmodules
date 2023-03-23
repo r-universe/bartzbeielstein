@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "babsim.hospital"]
+	path = babsim.hospital
+	url = https://github.com/cran/babsim.hospital
+	shallow = true
+	registered = true
+[submodule "SPOT"]
+	path = SPOT
+	url = https://github.com/cran/SPOT
+	shallow = true
+	registered = true
+[submodule "SPOTMisc"]
+	path = SPOTMisc
+	url = https://github.com/cran/SPOTMisc
+	shallow = true
+	registered = true
