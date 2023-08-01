@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "babsim.hospital"]
-	path = babsim.hospital
-	url = https://github.com/cran/babsim.hospital
 [submodule "SPOT"]
 	path = SPOT
 	url = https://github.com/cran/SPOT
 [submodule "SPOTMisc"]
 	path = SPOTMisc
 	url = https://github.com/cran/SPOTMisc
+[submodule "babsim.hospital"]
+	path = babsim.hospital
+	url = https://github.com/cran/babsim.hospital
